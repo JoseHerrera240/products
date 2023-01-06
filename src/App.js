@@ -1,24 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import { Header } from "./Components/Header";
+import { BrowserRouter } from "react-router-dom";
+import { Pages } from "./Components/pages";
+import { DataProvider } from "./Components/context/Dataprovider";
+import 'boxicons'
+import './App.css'
+import { ShoppingCart } from "./Components/ShoppingCart";
 
 function App() {
+  const [activeCar, setActiveCar] = useState(true);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <DataProvider>
+      <div className="App">
+        <BrowserRouter>
+          <Header
+            activeCar={activeCar}
+            setActiveCar={setActiveCar}
+           />
+          <ShoppingCart
+            state={activeCar}
+          />
+          <Pages />
+        </BrowserRouter>
+      </div>
+    </DataProvider>
   );
 }
 
