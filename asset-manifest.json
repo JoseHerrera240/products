@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sneakers/static/css/main.29aa22b8.css",
-    "main.js": "/sneakers/static/js/main.d38efd86.js",
-    "static/media/banner-nike-scaled.jpg": "/sneakers/static/media/banner-nike-scaled.3b1e85de204b291b0a59.jpg",
-    "static/media/logo.png": "/sneakers/static/media/logo.00b7df63dd73880d0913.png",
-    "static/media/img011.jpg": "/sneakers/static/media/img011.516d92a4a7c193c21914.jpg",
-    "static/media/img08.jpg": "/sneakers/static/media/img08.81e412af83bbd5f7b0be.jpg",
-    "static/media/img07.jpg": "/sneakers/static/media/img07.0132f5347c94f1da09f8.jpg",
-    "static/media/img10.jpg": "/sneakers/static/media/img10.91365af89817c1fbb043.jpg",
-    "static/media/img02.jpg": "/sneakers/static/media/img02.ed4b76a0c62ef811334d.jpg",
-    "static/media/img03.jpg": "/sneakers/static/media/img03.475683e4016c25c0eda4.jpg",
-    "static/media/img06.jpg": "/sneakers/static/media/img06.9a6f6c09fde40fc6c1fe.jpg",
-    "static/media/img09.jpg": "/sneakers/static/media/img09.2672b0a23d6bfee74202.jpg",
-    "static/media/img05.jpg": "/sneakers/static/media/img05.b8381f5f7713535eb4ec.jpg",
-    "static/media/img04.jpg": "/sneakers/static/media/img04.faae85890c73315ec3fc.jpg",
-    "static/media/img01.jpg": "/sneakers/static/media/img01.b982c5d15cea7c86747f.jpg",
-    "index.html": "/sneakers/index.html",
-    "main.29aa22b8.css.map": "/sneakers/static/css/main.29aa22b8.css.map",
-    "main.d38efd86.js.map": "/sneakers/static/js/main.d38efd86.js.map"
+    "main.css": "/products/static/css/main.29aa22b8.css",
+    "main.js": "/products/static/js/main.159f8b7e.js",
+    "static/media/banner-nike-scaled.jpg": "/products/static/media/banner-nike-scaled.3b1e85de204b291b0a59.jpg",
+    "static/media/logo.png": "/products/static/media/logo.00b7df63dd73880d0913.png",
+    "static/media/img011.jpg": "/products/static/media/img011.516d92a4a7c193c21914.jpg",
+    "static/media/img08.jpg": "/products/static/media/img08.81e412af83bbd5f7b0be.jpg",
+    "static/media/img07.jpg": "/products/static/media/img07.0132f5347c94f1da09f8.jpg",
+    "static/media/img10.jpg": "/products/static/media/img10.91365af89817c1fbb043.jpg",
+    "static/media/img02.jpg": "/products/static/media/img02.ed4b76a0c62ef811334d.jpg",
+    "static/media/img03.jpg": "/products/static/media/img03.475683e4016c25c0eda4.jpg",
+    "static/media/img06.jpg": "/products/static/media/img06.9a6f6c09fde40fc6c1fe.jpg",
+    "static/media/img09.jpg": "/products/static/media/img09.2672b0a23d6bfee74202.jpg",
+    "static/media/img05.jpg": "/products/static/media/img05.b8381f5f7713535eb4ec.jpg",
+    "static/media/img04.jpg": "/products/static/media/img04.faae85890c73315ec3fc.jpg",
+    "static/media/img01.jpg": "/products/static/media/img01.b982c5d15cea7c86747f.jpg",
+    "index.html": "/products/index.html",
+    "main.29aa22b8.css.map": "/products/static/css/main.29aa22b8.css.map",
+    "main.159f8b7e.js.map": "/products/static/js/main.159f8b7e.js.map"
   },
   "entrypoints": [
     "static/css/main.29aa22b8.css",
-    "static/js/main.d38efd86.js"
+    "static/js/main.159f8b7e.js"
   ]
 }
